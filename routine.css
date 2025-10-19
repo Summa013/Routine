@@ -1,0 +1,36 @@
+h1,h3{
+    text-align: center;
+    color: darkslategrey;
+    
+}
+body{
+    background-color: bisque;
+}
+table,td,tr,th{
+    height:60px;
+    width: 1000px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-color: blueviolet;
+}
+
+td{
+    text-align: center;
+    width: 200px;
+    background-color:lightcyan;
+}
+th{
+    width: 600px;
+    background-color: cadetblue;
+}
+.one{
+    background-color: cadetblue;
+}
+#summa{
+    colspan: 4;
+}
+.style{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: 24px;
+}
